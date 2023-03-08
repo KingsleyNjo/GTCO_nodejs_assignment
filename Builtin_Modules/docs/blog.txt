@@ -1,0 +1,4 @@
+//blog.txt is a file
+
+Hello, Kingsley, This is a blog post.
+Hello, Welcome to my blog
